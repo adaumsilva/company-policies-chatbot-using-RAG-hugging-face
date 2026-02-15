@@ -29,7 +29,7 @@ The chatbot follows a standard RAG workflow to ensure data privacy and factual g
 * **Hugging Face (Transformers & Datasets):** For access to open-source LLMs and embedding models.
 * **LangChain:** The framework used to orchestrate the retrieval and document loading logic.
 * **FAISS / ChromaDB:** High-performance vector databases for storing and searching policy embeddings.
-* **Streamlit:** A lightweight frontend for the employee chat interface.
+* **Google Colab:** A Python online compiler
 
 ---
 
