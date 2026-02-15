@@ -1,4 +1,4 @@
-# 🛡️ PolicyPulse: AI-Powered Company Policy Navigator 🚀
+# 🛡️ PolicyPulse: AI-Powered Company Policy Navigator
 
 ## 🎯 Objective
 
